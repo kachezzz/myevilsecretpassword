@@ -1,1 +1,4 @@
-Something is happening
+[
+  { "tag": "7d001b7", "message": "Something is happening" },
+  { "tag": "a1b2c3d", "message": "I want to go to sleep" }
+]
